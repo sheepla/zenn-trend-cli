@@ -19,7 +19,7 @@ deno install --allow-net --name zenn-trend-cli \
 
 ## Thanks
 
-This tool uses the followin API, thanks! ✨
+This tool uses the following API, thanks! ✨
 
 [HelloRusk/zenn-trend-api](https://github.com/HelloRusk/zenn-trend-api)
 
